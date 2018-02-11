@@ -1,0 +1,8 @@
+[package]
+name = "kick"
+version = "0.1.0"
+authors = ["Hiromitsu Oshiba <h.oshiba.0117@gmail.com>"]
+
+[dependencies]
+structopt = "*"
+zip = "0.2"
